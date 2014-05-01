@@ -1,2 +1,1 @@
-unity3d-pixelshitter-editor
-===========================
+http://rylgh.com/pixelshitter/
